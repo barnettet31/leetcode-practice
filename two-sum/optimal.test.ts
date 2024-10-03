@@ -1,4 +1,4 @@
-import { twoSum } from "."
+import { twoSum } from "./optimal"
 
 describe('twoSum', ()=>{
     it('should find result of array that has two elements that add up to target', ()=>{
