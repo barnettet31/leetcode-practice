@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest --passWithNoTests --updateSnapshot -- --coverage"
+    "test": "jest --coverage"
   },
   "author": "Travis Barnette",
   "license": "ISC",
